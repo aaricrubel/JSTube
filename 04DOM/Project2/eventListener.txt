@@ -1,0 +1,1 @@
+Event Listener Notes are inside comments of Script.
