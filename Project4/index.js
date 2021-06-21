@@ -18,6 +18,7 @@ function flip(){
         firstCard = this; // keep a track of the first card.
     } else {
         secondCard = this;
+		checkIt()
     }
 }
 
